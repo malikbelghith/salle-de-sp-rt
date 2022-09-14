@@ -1,0 +1,89 @@
+.bigone {
+  margin-left: -4px;
+  width: 1517px;
+  height: 355px;
+}
+.small {
+  width: 241px;
+  height: 163px;
+}
+.deuxpremiersoffre {
+  display: flex;
+  flex-direction: column;
+}
+.offres1 {
+  margin-left: 97px;
+}
+.firstp {
+  margin-left: 20px;
+  line-height: 4px;
+  font-size: 15px;
+}
+.firstline {
+  margin-left: -87px;
+  word-spacing: 4px;
+}
+.secondline {
+  margin-left: -78px;
+}
+.thirdline {
+  margin-left: -59px;
+}
+.offres2 {
+  margin-left: 625px;
+  margin-top: -240px;
+}
+
+.secondp {
+  margin-left: 78px;
+  line-height: 4px;
+  font-size: 15px;
+}
+.firstlinep2 {
+  margin-left: -187px;
+  word-spacing: 4px;
+}
+.secondlinep2 {
+  margin-left: -178px;
+}
+.thirdlinep2 {
+  margin-left: -159px;
+}
+.thirdp {
+  line-height: 4px;
+  font-size: 15px;
+}
+
+.offres3 {
+  margin-left: 1058px;
+  margin-top: -240px;
+}
+.smallone {
+  width: 241px;
+  height: 163px;
+  margin-left: 76px;
+}
+.firstlinep3 {
+  margin-left: -42px;
+  word-spacing: 4px;
+}
+.secondlinep3 {
+  margin-left: -28px;
+}
+.thirdlinep3 {
+  margin-left: -17px;
+}
+.street {
+  margin-left: 1369px;
+
+  margin-top: -33px;
+}
+.gros {
+  font-weight: bold;
+}
+.form {
+  display: flex;
+  gap: 74px;
+
+  align-items: center;
+}
